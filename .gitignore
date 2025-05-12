@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/TaskBoard/FileContentIndex
+/TaskBoard.API/obj/Debug/net8.0/TaskBoard.API.sourcelink.json
+/TaskBoard.Application/obj/Debug/net8.0/TaskBoard.Application.sourcelink.json
+/TaskBoard.Domain/obj/Debug/net8.0/TaskBoard.Domain.sourcelink.json
+/TaskBoard.Infrastructure/obj/Debug/net8.0/TaskBoard.Infrastructure.sourcelink.json
