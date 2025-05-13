@@ -92,6 +92,7 @@ C:\Repos\TaskBoard\TaskBoard.API\obj\Debug\net8.0\TaskBoard.API.AssemblyInfo.cs
 C:\Repos\TaskBoard\TaskBoard.API\obj\Debug\net8.0\TaskBoard.API.csproj.CoreCompileInputs.cache
 C:\Repos\TaskBoard\TaskBoard.API\obj\Debug\net8.0\TaskBoard.API.MvcApplicationPartsAssemblyInfo.cs
 C:\Repos\TaskBoard\TaskBoard.API\obj\Debug\net8.0\TaskBoard.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Repos\TaskBoard\TaskBoard.API\obj\Debug\net8.0\TaskBoard.API.sourcelink.json
 C:\Repos\TaskBoard\TaskBoard.API\obj\Debug\net8.0\staticwebassets.build.json
 C:\Repos\TaskBoard\TaskBoard.API\obj\Debug\net8.0\staticwebassets.development.json
 C:\Repos\TaskBoard\TaskBoard.API\obj\Debug\net8.0\staticwebassets\msbuild.TaskBoard.API.Microsoft.AspNetCore.StaticWebAssets.props

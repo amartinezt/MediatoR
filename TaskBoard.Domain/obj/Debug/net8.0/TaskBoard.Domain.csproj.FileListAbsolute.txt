@@ -5,6 +5,7 @@ C:\Repos\TaskBoard\TaskBoard.Domain\obj\Debug\net8.0\TaskBoard.Domain.GeneratedM
 C:\Repos\TaskBoard\TaskBoard.Domain\obj\Debug\net8.0\TaskBoard.Domain.AssemblyInfoInputs.cache
 C:\Repos\TaskBoard\TaskBoard.Domain\obj\Debug\net8.0\TaskBoard.Domain.AssemblyInfo.cs
 C:\Repos\TaskBoard\TaskBoard.Domain\obj\Debug\net8.0\TaskBoard.Domain.csproj.CoreCompileInputs.cache
+C:\Repos\TaskBoard\TaskBoard.Domain\obj\Debug\net8.0\TaskBoard.Domain.sourcelink.json
 C:\Repos\TaskBoard\TaskBoard.Domain\obj\Debug\net8.0\TaskBoard.Domain.dll
 C:\Repos\TaskBoard\TaskBoard.Domain\obj\Debug\net8.0\refint\TaskBoard.Domain.dll
 C:\Repos\TaskBoard\TaskBoard.Domain\obj\Debug\net8.0\TaskBoard.Domain.pdb
