@@ -10,6 +10,7 @@ C:\Repos\TaskBoard\TaskBoard.Application\obj\Debug\net8.0\TaskBoard.Application.
 C:\Repos\TaskBoard\TaskBoard.Application\obj\Debug\net8.0\TaskBoard.Application.AssemblyInfoInputs.cache
 C:\Repos\TaskBoard\TaskBoard.Application\obj\Debug\net8.0\TaskBoard.Application.AssemblyInfo.cs
 C:\Repos\TaskBoard\TaskBoard.Application\obj\Debug\net8.0\TaskBoard.Application.csproj.CoreCompileInputs.cache
+C:\Repos\TaskBoard\TaskBoard.Application\obj\Debug\net8.0\TaskBoard.Application.sourcelink.json
 C:\Repos\TaskBoard\TaskBoard.Application\obj\Debug\net8.0\TaskBoar.1B47CDC4.Up2Date
 C:\Repos\TaskBoard\TaskBoard.Application\obj\Debug\net8.0\TaskBoard.Application.dll
 C:\Repos\TaskBoard\TaskBoard.Application\obj\Debug\net8.0\refint\TaskBoard.Application.dll
