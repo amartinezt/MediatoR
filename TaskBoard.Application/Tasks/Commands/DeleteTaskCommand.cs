@@ -1,7 +1,7 @@
 ﻿using MediatR;
 using System;
 
-namespace TaskBoard.Application.Commands
+namespace TaskBoard.Application.Tasks.Commands
 {
     public class DeleteTaskCommand : IRequest<bool>
     {

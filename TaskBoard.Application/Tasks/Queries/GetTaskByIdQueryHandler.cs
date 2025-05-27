@@ -2,7 +2,7 @@
 using MediatR;
 using TaskBoard.Infrastructure.Db;
 using TaskBoard.Domain.Entities;
-using TaskBoard.Application.Queries;
+using TaskBoard.Application.Tasks.Queries;
 
 public class GetTaskByIdQueryHandler : IRequestHandler<GetTaskByIdQuery, TaskItem?>
 {

@@ -2,7 +2,7 @@
 using TaskBoard.Infrastructure.Db;
 using Microsoft.EntityFrameworkCore;
 using TaskBoard.Domain.Entities;
-using TaskBoard.Application.Queries;
+using TaskBoard.Application.Tasks.Queries;
 
 public class GetAllTasksQueryHandler : IRequestHandler<GetAllTasksQuery, List<TaskItem>>
 {

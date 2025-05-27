@@ -1,8 +1,7 @@
 ﻿using MediatR;
 using Microsoft.AspNetCore.Mvc;
-using TaskBoard.Application.Commands;
-using TaskBoard.Application.Commands.CreateTask;
 using TaskBoard.Application.Queries;
+using TaskBoard.Application.Tasks.Commands;
 using TaskBoard.Domain.Entities;
 
 namespace TaskBoard.API.Controllers
