@@ -8,6 +8,7 @@ appsettings.Development.json
 # Build and user-specific files
 bin/
 obj/
+.vs
 .vscode/
 *.user
 *.suo

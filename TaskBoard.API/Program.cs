@@ -14,6 +14,7 @@ builder.Services.AddSwaggerGen();
 // Configure Entity Framework & DbContext
 builder.Services.AddDbContext<TaskBoardDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+
 //
 builder.Services.AddScoped<ITaskRepository, TaskRepository>();
 
