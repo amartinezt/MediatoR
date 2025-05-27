@@ -1,7 +1,7 @@
 ﻿using MediatR;
 using TaskBoard.Domain.Entities;
 
-namespace TaskBoard.Application.Commands.CreateTask
+namespace TaskBoard.Application.Tasks.Commands
 {
     public class CreateTaskCommand : IRequest<TaskItem>
     {

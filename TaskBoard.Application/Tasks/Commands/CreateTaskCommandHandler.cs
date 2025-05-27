@@ -2,7 +2,7 @@
 using TaskBoard.Domain.Entities;
 using TaskBoard.Domain.Interfaces;
 
-namespace TaskBoard.Application.Commands.CreateTask
+namespace TaskBoard.Application.Tasks.Commands
 {
     public class CreateTaskCommandHandler : IRequestHandler<CreateTaskCommand, TaskItem>
     {

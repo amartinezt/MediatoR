@@ -1,6 +1,6 @@
 ﻿using MediatR;
 
-namespace TaskBoard.Application.Commands
+namespace TaskBoard.Application.Tasks.Commands
 {
     public class UpdateTaskCommand : IRequest<bool>
     {
