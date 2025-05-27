@@ -2,8 +2,23 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/.vs/TaskBoard/FileContentIndex
-/TaskBoard.API/obj/Debug/net8.0/TaskBoard.API.sourcelink.json
-/TaskBoard.Application/obj/Debug/net8.0/TaskBoard.Application.sourcelink.json
-/TaskBoard.Domain/obj/Debug/net8.0/TaskBoard.Domain.sourcelink.json
-/TaskBoard.Infrastructure/obj/Debug/net8.0/TaskBoard.Infrastructure.sourcelink.json
+# Ignore local development configuration
+appsettings.Development.json
+
+# Build and user-specific files
+bin/
+obj/
+.vs
+.vscode/
+*.user
+*.suo
+
+# VS Code debug log
+.vscode/launch.json
+.vscode/tasks.json
+
+# Docker artifacts 
+**/docker-compose.override.yml
+**/docker-compose*.yml
+/.vs/TaskBoard/CopilotIndices/17.13.449.12402
+/.vs/TaskBoard
